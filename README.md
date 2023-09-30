@@ -21,3 +21,6 @@
 
 ## [Ролевая РПГ](https://github.com/MunSunch/GameForHeadsAndHands)
   Применяя принципы SOLID и DRY, а также шаблоны проектирования, разработал игру с своей атакующей системой и сюжетом.
+  
+## [REST сервис по работе с документацией ОАО "РЖД"](https://github.com/MunSunch/NotificationService)
+  (В разработке) Помимо самого сервиса также разработал примитивного клиента на html, css, js, bootstrap.
