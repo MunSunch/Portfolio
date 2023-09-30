@@ -4,7 +4,8 @@
 - vk: https://vk.com/neboioblaka
 
 # Портфолио
-## [Сервис перевода с карты на карту](https://github.com/MunSunch/Card2Card)
+
+## <a href="https://github.com/MunSunch/Card2Card" target="_blank">Сервис перевода с карты на карту</a>
   В данном проекте реализовал REST сервис на Spring boot для перевода с карты на карту, который взаимодействует 
   с фронтенд приложением(Подробности по ссылке). 
 
