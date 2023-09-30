@@ -11,7 +11,7 @@
 
 Используемые технологии: Java17, Spring boot, Docker, Logback, JUnit, Mockito, Testcontainers, Lombok, ModelMapper.
 
-## [Интерпретор для языка SQL](https://github.com/MunSunch/MySQL_language)
+## [Интерпретор для языка SQL](https://github.com/MunSunch/MySQL_language){:target="_blank"}
   В проекте представлен умный парсер запросов категории DML, написанных на SQL, в java код для выполнения операций с коллекциями.
 
 ## [Итоговый проект интенсива Digital Design](https://github.com/MunSunch/DigDes)
