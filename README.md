@@ -3,6 +3,9 @@
 - telegramm: https://t.me/score_msConfig021
 - vk: https://vk.com/neboioblaka
 
+## Описание
+  Для получения подробного описания проектов-нажимать на названия проектов.
+
 # Портфолио
 
 ## [Сервис перевода с карты на карту](https://github.com/MunSunch/Card2Card)
@@ -24,6 +27,7 @@
   Применяя принципы SOLID и DRY, а также шаблоны проектирования, разработал игру с своей атакующей системой и сюжетом.
   
 ## [REST сервис на Spring Boot по работе с документацией ОАО "РЖД"](https://github.com/MunSunch/NotificationService)
-  (В разработке) Помимо самого сервиса также разработал примитивного клиента на html, css, js, bootstrap.
+  Помимо самого сервиса также разработал примитивного клиента на html, css, js, bootstrap.
 
-## [Телеграмм бот](https://github.com/MunSunch/TelegramBot_portfolio)
+## [Телеграмм бот](https://github.com/MunSunch/TelegramHelloBot)
+  Изучение взаимодействия с телеграммом
