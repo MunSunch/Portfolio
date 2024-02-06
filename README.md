@@ -29,6 +29,3 @@
   
 ## [REST сервис на Spring Boot по работе с документацией ОАО "РЖД"](https://github.com/MunSunch/NotificationService)
   Помимо самого сервиса также разработал примитивного клиента на html, css, js, bootstrap.
-
-## [Телеграмм бот](https://github.com/MunSunch/TelegramHelloBot)
-  Изучение взаимодействия с телеграммом
