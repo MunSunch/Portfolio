@@ -21,11 +21,11 @@
 ## [Итоговый проект интенсива Digital Design](https://github.com/MunSunch/DigDes)
   На примере разработки REST сервиса постигал spring-дзен под руководством ментора.
 
-## [Интерпретатор математических выражений на C++](https://github.com/MunSunch/Sorting-station-algorithmPublic)
-  В проекте реализован глупый интерпретатор для вычисления бинарных операций, поддерживающих корректную последовательность вычислений со скобками.
+## [Проект интенсива Y_lab](https://github.com/MunSunch/MonitoringService)
+  Сервис для работы с показаниями счетчиков.
 
-## [Ролевая РПГ](https://github.com/MunSunch/GameForHeadsAndHands)
-  Применяя принципы SOLID и DRY, а также шаблоны проектирования, разработал игру с своей атакующей системой и сюжетом.
+## [Проект для работы с контактами](https://github.com/MunSunch/ContactsService)
+  Консольный клиент с хранением данных в памяти.
   
 ## [REST сервис на Spring Boot по работе с документацией ОАО "РЖД"](https://github.com/MunSunch/NotificationService)
   Помимо самого сервиса также разработал примитивного клиента на html, css, js, bootstrap.
